@@ -1,5 +1,3 @@
-// This is an I/O test client for the suggest module
-
 #include <assert.h>
 #include <stdio.h>
 #include "words.h"
