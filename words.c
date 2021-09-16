@@ -1,7 +1,3 @@
-// This is the implementation for the words module
-
-// we are using the same words as in q5
-
 #include "words.h"
 
 struct triple_s *words_create(void) {
